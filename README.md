@@ -20,3 +20,6 @@ Este problema contempla 3 mutexes (um para cada bomba e um para a fila de carros
  - Adicionando uma bomba com diesel por exemplo;
  - Ou adicionando veículos diferentes que podem ocupar diferentes quantias de espaço na fila;
  - Ou aumentando bombas de mesmo combustível elevando o número de recursos por tipo de carro;
+
+## imagem de um log teste
+![imagem](./logs.jpg)
